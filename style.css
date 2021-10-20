@@ -1,0 +1,23 @@
+
+    <style>
+    /* Cascating Stylesheet Projetct */
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+      background: lightcyan;
+    }
+
+    h1 {
+      font-size: 3.5rem;
+    }
+
+    a {
+      color: black;
+      text-decoration: none;
+    }
+  </style>
